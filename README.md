@@ -11,3 +11,4 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+The contract is deployed at the address ```0x7b031E735F5AbEdfFef6b273081Ba43Da03A6d76``` on Goerli Testnet.
